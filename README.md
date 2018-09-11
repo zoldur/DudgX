@@ -1,5 +1,5 @@
 # DudgX
-Shell script to install a [DudgX Masternode](https://www.DudgX.biz/) on a Linux server running Ubuntu 16.04.
+Shell script to install a [DudgX Masternode](https://www.dunderdogcoin.com/) on a Linux server running Ubuntu 16.04.
 ***
 
 ## VPS installation
@@ -61,6 +61,6 @@ systemctl is-enabled DudgX #To check if DudgX service is enabled on boot
 ## Donations
 Any donation is highly appreciated
 
-**BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh  
-**ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E  
-**LTC**: LNZpK4rCd1JVSB3rGKTAnTkudV9So9zexB  
+**BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh
+**ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E
+**LTC**: LNZpK4rCd1JVSB3rGKTAnTkudV9So9zexB
